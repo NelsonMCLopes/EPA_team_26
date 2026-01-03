@@ -3,23 +3,25 @@ title: Home
 nav_order: 1
 ---
 
-# GoLP EPA Team
+# GoLP – EPA Team
 
-Experimental Plasma Accelerators (EPA)<br>
-Grupo de Lasers e Plasmas (GoLP)<br>
-Instituto de Plasmas e Fusão Nuclear (IPFN) - Instituto Superior Técnico<br>
+**Experimental Plasma Accelerators (EPA)**  
+Grupo de Lasers e Plasmas (GoLP)  
+Instituto de Plasmas e Fusão Nuclear (IPFN) – Instituto Superior Técnico  
 
-The EPA team is dedicated to the development and aplication of plasma accelerators both laser and particle driven. Our team develops very long plasma sources for the AWAKE experiment at CERN and we also develop and explore new gas targets for Laser Wakefield Accelrators aiming the production of high quality electron and x-ray beams compatible with applications such as x-ray microscopy or microptomography, FEL seeding or electron therapy.
+The EPA team focuses on the experimental development of plasma-based particle accelerators, both laser-driven and beam-driven.  
+Our activities include the development of long, scalable plasma sources for the AWAKE experiment at CERN, as well as advanced gas targets and diagnostics for Laser Wakefield Acceleration.  
+These efforts aim at the generation of high-quality electron and X-ray beams for applications such as X-ray microscopy, microtomography, FEL seeding, and advanced radiation sources.
 
-
-## Areas
-- Topic 1
-- Topic 2
-- Topic 3
+## Research Areas
+- Plasma sources for beam-driven plasma accelerators (AWAKE)
+- Laser Wakefield Acceleration and advanced gas targets
+- Plasma diagnostics (interferometry, Thomson scattering)
+- Experimental laser–plasma interaction and high-gradient acceleration
+- Development of complex experimental apparatus for plasma accelerator research
 
 ## Quick links
 - [People](people)
 - [Projects](projects)
 - [Publications](publications)
 - [Contact](contact)
-
