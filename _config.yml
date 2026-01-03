@@ -1,1 +1,14 @@
+title: "EPA Team"
+description: "Research team website"
+url: "https://nelsonmclopes.github.io"
+baseurl: "/EPA_team_26"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+nav_enabled: true
+permalink: pretty
 
