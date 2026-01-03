@@ -3,9 +3,12 @@ title: Home
 nav_order: 1
 ---
 
-# EPA Team 26
+# GoLP EPA Team
 
-Short description of the group, institution, and main research focus.
+Instituto de Plasmas e Fusão Nuclear (IPFN) - Instituto Superior Técnico
+
+The EPA team is dedicated to the development and aplication of plasma accelerators both laser and particle driven. Our team develops very long plasma sources for the AWAKE experiment at CERN and we also develop and explore new gas targets for Laser Wakefield Accelrators aiming the production of high quality electron and x-ray beams compatible with applications such as x-ray microscopy or microptomography, FEL seeding or electron therapy.
+
 
 ## Areas
 - Topic 1
