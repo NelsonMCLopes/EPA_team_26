@@ -9,12 +9,12 @@ nav_order: 4
 - **Double pulse generator for AWAKE scalable discharge plasma source**, *N. E. Torrado, C. Amoedo, A. Sublet, M. Taborelli, S. F. Pinto, J. F. Silva, and N. C. Lopes*, *Journal of Physics: Conference Series* **3124**, 012021 (2025).  
   [DOI: 10.1088/1742-6596/3124/1/012021](https://iopscience.iop.org/article/10.1088/1742-6596/3124/1/012021)
 
-- **[FULL PAPER TITLE GOES HERE]**,  
+- **Self-guided propagation of laser pulses reflected at high intensity from plasma mirrors**,  
   *J.-N. Gruse, N. C. Lopes, R. J. Shalloo, J. A. Hills, A. Alejo, T. L. Audet, M. P. Backhouse, N. Bourgeois, E. Gerstmayr, S. P. D. Mangles, et al.*,  
   *New Journal of Physics* **27** (2025).  
   [DOI: 10.1088/1367-2630/ae2cbf](https://doi.org/10.1088/1367-2630/ae2cbf)
 
-**Proton-Driven Plasma Wakefield Acceleration for Future HEP Colliders**,  
+- **Proton-Driven Plasma Wakefield Acceleration for Future HEP Colliders**,  
   *A. Caldwell, J. Farmer, N. Lopes, A. Pukhov, F. Willeke, T. Wilson, et al.*,  
   *arXiv:2503.21669 (2025)*.  
   [arXiv link](https://arxiv.org/abs/2503.21669)
