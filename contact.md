@@ -16,4 +16,4 @@ Portugal
 
 **Email:** nelson.lopes@tecnico.ulisboa.pt
 
-Prospective students are invited to consult the [Join us](https://nelsonmclopes.github.io/EPA_team_26/join.md) page.
+Prospective students are invited to consult the [Join us](https://nelsonmclopes.github.io/EPA_team_26/join) page.
