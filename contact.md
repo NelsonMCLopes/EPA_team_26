@@ -5,13 +5,14 @@ nav_order: 5
 
 # Contact
 
-**Institution:** Instituto Superior Técnico (IST), Universidade de Lisboa  
-**Group:** EPA Team 26 (edit as needed)
+**Institution:** 
+Instituto Superior Técnico (IST), Universidade de Lisboa
+Instituto de Plasmas e Fusão Nuclear
+Grupo de Lasers e Plasmas - EPA Team
+Complexo I, sala 151
+Av. Rovisco pais 
+1049-001 Lisboa
+Portugal
 
-**Email:** your.email@tecnico.ulisboa.pt
-
-## Links
-- GitHub: 
-- Google Scholar:
-- ORCID:
+**Email:** nelson.lopes@tecnico.ulisboa.pt
 
