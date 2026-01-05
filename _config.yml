@@ -1,5 +1,5 @@
 title: "EPA Team"
-description: "Research team website"
+description: "Experimental Plasma Accelerators (EPA) – research group at Instituto Superior Técnico (IST) working on plasma accelerators, laser–plasma interaction, and student thesis projects."
 url: "https://nelsonmclopes.github.io"
 baseurl: "/EPA_team_26"
 
@@ -11,4 +11,3 @@ plugins:
 search_enabled: true
 nav_enabled: true
 permalink: pretty
-
