@@ -16,4 +16,4 @@ Portugal
 
 **Email:** nelson.lopes@tecnico.ulisboa.pt
 
-Prospective students are invited to consult the [Join Us](join-us) page.
+Prospective students are invited to consult the [Join Us](join) page.
