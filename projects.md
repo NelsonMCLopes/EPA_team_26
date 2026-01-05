@@ -26,6 +26,8 @@ Funding: FCT ([2024.00263.CERN](https://doi.org/10.54499/2024.00263.CERN))
 Design and development of gas cells and gas targets for laser wakefield accelerators,
 including thermally controlled systems for improved density stability and beam quality.
 
+Funding: FCT ([2022.06871.PTDC](https://doi.org/10.54499/2022.06871.PTDC))
+
 ---
 
 ## Pulsed Power Systems for Plasma Sources
