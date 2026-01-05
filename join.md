@@ -35,7 +35,6 @@ A participação dos estudantes ocorre tipicamente no âmbito de **projetos de i
 - Participation in international collaborations (e.g. CERN-related projects)
 - Opportunity to contribute to publications
 - Close supervision and mentoring
-- Reference letters
 
 ---
 
@@ -45,8 +44,7 @@ A participação dos estudantes ocorre tipicamente no âmbito de **projetos de i
 - Participação em colaborações internacionais
 - Possibilidade de coautoria em publicações científicas
 - Acompanhamento próximo
-- Cartas de recomendação
-
+- 
 ---
 
 ## How to apply
