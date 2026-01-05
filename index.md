@@ -16,7 +16,7 @@ These efforts aim at the generation of high-quality electron and X-ray beams for
 ## Research Areas
 - Plasma sources for beam-driven plasma accelerators (AWAKE)
 - Laser Wakefield Acceleration and advanced gas targets
-- Plasma diagnostics (interferometry, Thomson scattering)
+- Plasma diagnostics (interferometry, spectroscopy, Thomson scattering)
 - Experimental laser–plasma interaction and high-gradient acceleration
 - Development of complex experimental apparatus for plasma accelerator research
 
@@ -24,4 +24,5 @@ These efforts aim at the generation of high-quality electron and X-ray beams for
 - [People](people)
 - [Projects](projects)
 - [Publications](publications)
+- [Join Us](join-us)
 - [Contact](contact)
