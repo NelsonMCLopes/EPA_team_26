@@ -1,5 +1,5 @@
 ---
-title: Join us
+title: Join Us - Student Thesis and Research Projects
 nav_order: 6
 ---
 
@@ -66,3 +66,7 @@ Enviar email com:
 - Pequena nota de motivação
 
 Contacto: **nelson.lopes@tecnico.ulisboa.pt**
+
+<!--
+MSc thesis, BSc thesis, and PhD thesis projects in experimental plasma physics at Instituto Superior Técnico (IST) (Tecnico), Lisbon.
+-->
