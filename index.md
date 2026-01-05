@@ -26,3 +26,5 @@ These efforts aim at the generation of high-quality electron and X-ray beams for
 - [Publications](publications)
 - [Contact](contact)
 - [Join us](join-us)
+
+![DPS argon, xenon and helium plasmas in the AWAKE experiment (April 2023) ](assets/images/3plasmaPicture.png)
