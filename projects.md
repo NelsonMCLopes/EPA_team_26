@@ -15,7 +15,7 @@ including the development of plasma sources, diagnostics, and pulsed power syste
 Development of long and high-repetition-rate discharge plasma sources for particle accelerator
 applications, with a focus on stability, reproducibility, and scalability.
 
-This research includes contributions to the AWAKE experiment at CERN, namely the development of length-scalable Discharge Plasma Sources (DPS) in collabotation with CERN and Imperial College London. 
+This research includes contributions to the AWAKE experiment at CERN, namely the development of length-scalable Discharge Plasma Sources (DPS) in collaboration with CERN and Imperial College London. 
 
 Funding: FCT ([2024.00263.CERN](https://doi.org/10.54499/2024.00263.CERN))
 
