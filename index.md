@@ -24,5 +24,5 @@ These efforts aim at the generation of high-quality electron and X-ray beams for
 - [People](people)
 - [Projects](projects)
 - [Publications](publications)
-- [Join Us](join-us)
 - [Contact](contact)
+- [Join us](join-us)
