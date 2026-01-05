@@ -44,7 +44,7 @@ A participação dos estudantes ocorre tipicamente no âmbito de **projetos de i
 - Participação em colaborações internacionais
 - Possibilidade de coautoria em publicações científicas
 - Acompanhamento próximo
-- 
+
 ---
 
 ## How to apply
