@@ -1,5 +1,5 @@
 ---
-title: Join Us - Student Thesis and Research Projects
+title: Join us
 nav_order: 6
 ---
 
