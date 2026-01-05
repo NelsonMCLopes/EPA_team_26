@@ -5,47 +5,47 @@ nav_order: 6
 
 # Join the EPA Team
 
-We regularly host **BSc and MSc students** interested in experimental plasma physics,
-laser–plasma interaction, particle accelerators, diagnostics, and instrumentation.
+The EPA team hosts students at different stages of their academic training,
+including **BSc, MSc, and PhD thesis projects**, in the context of experimental research in plasma physics, laser–plasma interaction, particle accelerators, and related technologies.
 
-Students typically join through:
-- BSc thesis projects
-- MSc thesis projects
-- Short-term research projects
+Student involvement typically takes place through **research projects and thesis work**, and may include experimental activities, data analysis, simulations, and instrumentation development.
+The scope and form of participation are defined on a **case-by-case basis**, and PhD thesis projects are subject to institutional and funding requirements.
 
 ---
+
+
 
 # Junta-te à Equipa EPA
 
-A equipa EPA acolhe regularmente **estudantes de Licenciatura e Mestrado em Física**
-interessados em investigação experimental nas áreas de:
+A equipa EPA acolhe estudantes em diferentes fases da sua formação académica,
+incluindo **teses de Licenciatura (PIC), Mestrado e Doutoramento**, no contexto de investigação experimental nas áreas de:
 - Física de plasmas
 - Interação laser–plasma
 - Aceleradores de partículas
-- Diagnóstica e instrumentação experimental
+- Instrumentação e diagnóstico experimental
+- Potência pulsada 
 
-Os projetos decorrem no **Instituto Superior Técnico (IST)**,
-no âmbito do **Grupo de Lasers e Plasmas (GoLP / IPFN)**.
+A participação dos estudantes ocorre tipicamente no âmbito de **projetos de investigação e teses**. O tipo de projeto e o grau de envolvimento são definidos **caso a caso**, sendo as teses de doutoramento condicionadas aos requisitos institucionais e de financiamento.
 
 ---
 
-## What students gain
+## Training and research environment
 
 - Hands-on experimental research experience
 - Participation in international collaborations (e.g. CERN-related projects)
 - Opportunity to contribute to publications
 - Close supervision and mentoring
-- Strong reference letters for PhD applications
+- Reference letters
 
 ---
 
-## O que os estudantes ganham
+## Enquadramento
 
 - Experiência prática em investigação científica
 - Participação em colaborações internacionais
 - Possibilidade de coautoria em publicações científicas
 - Acompanhamento próximo
-- Cartas de recomendação para candidaturas a doutoramento
+- Cartas de recomendação
 
 ---
 
@@ -53,10 +53,9 @@ no âmbito do **Grupo de Lasers e Plasmas (GoLP / IPFN)**.
 
 Please send a brief email including:
 - CV
-- Academic transcript
 - Short statement of interest
 
-Contact: **your.email@tecnico.ulisboa.pt**
+Contact: **nelson.lopes@tecnico.ulisboa.pt**
 
 ---
 
@@ -64,7 +63,6 @@ Contact: **your.email@tecnico.ulisboa.pt**
 
 Enviar email com:
 - CV
-- Histórico escolar
 - Pequena nota de motivação
 
-Contacto: **your.email@tecnico.ulisboa.pt**
+Contacto: **nelson.lopes@tecnico.ulisboa.pt**
